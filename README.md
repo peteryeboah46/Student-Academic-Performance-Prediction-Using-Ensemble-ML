@@ -10,15 +10,15 @@ This study proposes a unified ensemble machine learning framework for predicting
 
 ## Repository Structure
 
-`01_student-por.csv`
-`02_main.py` 
-`03_pre-processing.py`
-`04_feature_selection.py`
-`05_individual_models.py`
-`06_ensemble_models.py`
-`07_evaluation.py`
-`08_shap_analysis.py`
-`09_requirements.txt`
+1. `01_student-por.csv`
+2. `02_main.py` 
+3. `03_pre-processing.py`
+4. `04_feature_selection.py`
+5. `05_individual_models.py`
+6. `06_ensemble_models.py`
+7. `07_evaluation.py`
+8. `08_shap_analysis.py`
+9. `09_requirements.txt`
 `Saved_images/`
 
 ## Python Packages
@@ -32,5 +32,5 @@ This study proposes a unified ensemble machine learning framework for predicting
 
 ## Author
 
-Peter Yeboah  
+Peter YEBOAH  
 African Institute for Mathematical Sciences (AIMS-Ghana)
