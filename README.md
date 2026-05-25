@@ -1,12 +1,12 @@
 # Student-Academic-Performance-Prediction-Using-Ensemble-ML
 
-This repository contains the implementation codes for the MSc thesis:
+This repository contains the implementation codes for the MSc thesis.
 
-Title: Student Academic Performance Prediction Using Ensemble Machine Learning Models
+Title: Student Academic Performance Prediction (SAPP) Using Ensemble Machine Learning (ML) Models
 
 ## Description
 
-This study proposes a unified ensemble machine learning framework for predicting student academic performance. The framework integrates feature selection, ensemble learning, and explainable artificial intelligence (XAI) to improve predictive accuracy and interpretability.
+This study proposes a unified ensemble ML framework for predicting student academic performance. The framework integrates feature selection, ensemble learning (EL), and explainable artificial intelligence (XAI) to improve predictive accuracy and interpretability.
 
 ## Repository Structure
 
