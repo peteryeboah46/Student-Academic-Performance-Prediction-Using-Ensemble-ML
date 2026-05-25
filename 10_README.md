@@ -17,7 +17,7 @@ This study proposes a unified ensemble machine learning framework for predicting
 5. `ensemble_models.py`
 6. `evaluation.py`
 7. `shap_analysis.py`
-8. `saved_plots/`
+8. `Saved_images/`
 
 ## Python Packages
 
