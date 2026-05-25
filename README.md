@@ -32,5 +32,5 @@ This study proposes a unified ensemble ML framework for predicting student acade
 
 ## Author
 
-Peter ## YEBOAH  
+Peter YEBOAH  
 African Institute for Mathematical Sciences (AIMS-Ghana)
